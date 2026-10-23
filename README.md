@@ -32,11 +32,8 @@
 | Проект | Что это | Где |
 |---|---|---|
 | **Lovii** | SaaS-платформа локальных маркетплейсов: витрина и лояльность для кафе, пекарен, магазинов и салонов; жителям — единый кэшбэк района | [lovii.ru](https://lovii.ru) · [документация](https://github.com/lovii-ru/lovii-docs) |
-| **LOVII White Paper** | Публичная концепция платформы: модель, тарифы, экономика | [aoplatforma.ru](https://aoplatforma.ru) · [platforma](platforma) |
 | **AXIIOM** | Студия разработки: сайты, мобильные приложения, UI/UX, финтех-решения | [rucorp.github.io/axiiom_landing](https://rucorp.github.io/axiiom_landing/) · [axiiom](axiiom) |
 | **АТМОСФЕРА** | Digital-агентство полного цикла: лидогенерация, интеграции, автоматизация рекламы и CRM | [arental.ru](https://arental.ru) · [arental](arental) |
-| **АО «Точка»** | Корпоративный сайт | [aotochka.ru](https://aotochka.ru) |
-| **Paffo** | Ателье Upper Custom: итальянская шерсть, кашемир, кожа, 21 день производства | [paffo](paffo) |
 | **mock-services** | Тестовый банк-эквайринг и ОФД по официальным протоколам: Т-Банк, ЮKassa, АТОЛ, Альфа, Сбер, ВТБ | [mock-services](mock-services) |
 
 **Экономика Lovii** — эталон подхода к ценообразованию: подключение бесплатно, оплата с чека, совокупная нагрузка на точку по заказу — не более 10%, включая эквайринг ([тарифы](https://github.com/lovii-ru/lovii-docs/blob/main/canon/PARAMS.md)). Платформа не перепродаёт товары и не хранит деньги клиентов: расчёты идут через банковского партнёра.
