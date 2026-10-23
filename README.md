@@ -68,5 +68,5 @@
 
 <p align="center">
   <sub>RuCorp · <a href="https://lovii.ru">lovii.ru</a> · первый проект — <a href="https://lovii.ru">Lovii</a><br>
-  Материалы — <a href="LICENSE">Unlicense</a>. Бренд: знак «Ядро», Inter, Ink&nbsp;#0B1220 + Lime&nbsp;#C8F751.</sub>
+  Материалы — <a href="LICENSE">Unlicense</a>. Бренд: знак «Модуль», Inter, Ink&nbsp;#0B1220 + Lime&nbsp;#C8F751.</sub>
 </p>

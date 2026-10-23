@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <rect width="512" height="512" rx="112" fill="#0B1220"/>
 <g transform="translate(0 0)">
-  <path d="M160 368 V144 H256 A68 68 0 0 1 256 280 H160" fill="none" stroke="#FFFFFF" stroke-width="56" stroke-linejoin="miter" stroke-linecap="butt"/>
-  <path d="M244 280 L344 368" fill="none" stroke="#2B59FF" stroke-width="56" stroke-linecap="butt"/></g>
+  <rect x="140" y="140" width="108" height="108" rx="30" fill="#FFFFFF"/>
+  <rect x="264" y="140" width="108" height="108" rx="30" fill="#FFFFFF"/>
+  <rect x="140" y="264" width="108" height="108" rx="30" fill="#FFFFFF"/>
+  <rect x="264" y="264" width="108" height="108" rx="30" fill="#2B59FF"/></g>
 </svg>
