@@ -36,7 +36,6 @@
 | **АТМОСФЕРА** | Digital-агентство полного цикла: лидогенерация, интеграции, автоматизация рекламы и CRM | [arental.ru](https://arental.ru)|
 | **mock-services** | Тестовый банк-эквайринг и ОФД по официальным протоколам: Т-Банк, ЮKassa, АТОЛ, Альфа, Сбер, ВТБ | [mock-services](https://axiiom.ru/mock-services/) |
 | **Alien Cosmic — Frontier-64** | Космическая стратегия в реальном времени: Quick Battle, кампания, конструктор карт до 96×96 | [alien-cosmic](https://bestdeejay-design.github.io/alien-cosmic/) |
-| **Alien Cosmic — Frontier-64** | Космическая стратегия в реальном времени: Quick Battle, кампания, конструктор карт до 96×96 | [alien-cosmic](https://bestdeejay-design.github.io/alien-cosmic/) |
 
 **Экономика Lovii** — эталон подхода к ценообразованию: подключение бесплатно, оплата с чека, совокупная нагрузка на точку по заказу — не более 10%, включая эквайринг ([тарифы](https://github.com/lovii-ru/lovii-docs/blob/main/canon/PARAMS.md)). Платформа не перепродаёт товары и не хранит деньги клиентов: расчёты идут через банковского партнёра.
 
